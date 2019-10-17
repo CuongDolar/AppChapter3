@@ -1,0 +1,12 @@
+C:\Users\cuongdolar\source\repos\AppChapter3\AppChapter3\AppChapter3\obj\Debug\netstandard2.0\AppChapter3.csprojAssemblyReference.cache
+C:\Users\cuongdolar\source\repos\AppChapter3\AppChapter3\AppChapter3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cuongdolar\source\repos\AppChapter3\AppChapter3\AppChapter3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cuongdolar\source\repos\AppChapter3\AppChapter3\AppChapter3\obj\Debug\netstandard2.0\AppChapter3.csproj.CoreCompileInputs.cache
+C:\Users\cuongdolar\source\repos\AppChapter3\AppChapter3\AppChapter3\obj\Debug\netstandard2.0\AppChapter3.AssemblyInfoInputs.cache
+C:\Users\cuongdolar\source\repos\AppChapter3\AppChapter3\AppChapter3\obj\Debug\netstandard2.0\AppChapter3.AssemblyInfo.cs
+C:\Users\cuongdolar\source\repos\AppChapter3\AppChapter3\AppChapter3\bin\Debug\netstandard2.0\AppChapter3.deps.json
+C:\Users\cuongdolar\source\repos\AppChapter3\AppChapter3\AppChapter3\bin\Debug\netstandard2.0\AppChapter3.dll
+C:\Users\cuongdolar\source\repos\AppChapter3\AppChapter3\AppChapter3\bin\Debug\netstandard2.0\AppChapter3.pdb
+C:\Users\cuongdolar\source\repos\AppChapter3\AppChapter3\AppChapter3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cuongdolar\source\repos\AppChapter3\AppChapter3\AppChapter3\obj\Debug\netstandard2.0\AppChapter3.dll
+C:\Users\cuongdolar\source\repos\AppChapter3\AppChapter3\AppChapter3\obj\Debug\netstandard2.0\AppChapter3.pdb
